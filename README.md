@@ -1,11 +1,50 @@
 # Software Engineer Jobs (Europe)
 
-This data is updated weekly, with filled postings removed. Last updated: 12/13/2024
+This data is updated weekly, with filled postings removed. Last updated: 12/17/2024
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Software Engineer Jobs](https://algojobs.io/)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 12/16/2024 | [Senior Software Engineer - Endur](https://algojobs.io/jobs/2599160) | [DRW ](https://algojobs.io/company/drweng/) | N/A | London |
+| 12/16/2024 | [Software Engineer](https://algojobs.io/jobs/2599322) | [AutoProff](https://algojobs.io/company/autoproff/) | N/A | Vejle, Denmark |
+| 12/16/2024 | [Software Engineering Graduate - Dublin, Ireland (Start: June/July 2025)](https://algojobs.io/jobs/2599056) | [Twilio - University Programs](https://algojobs.io/company/twiliostudents/) | N/A | Dublin, Ireland |
+| 12/16/2024 | [Software Engineering Graduate - Dublin, Ireland (Start: June/July 2025)](https://algojobs.io/jobs/2600778) | [Twilio](https://algojobs.io/company/twilio/) | N/A | Remote - Ireland |
+| 12/16/2024 | [Software Engineering Intern - Dublin, Ireland (Start: June)](https://algojobs.io/jobs/2599057) | [Twilio - University Programs](https://algojobs.io/company/twiliostudents/) | N/A | Dublin, Ireland |
+| 12/16/2024 | [Software Engineering Intern - Dublin, Ireland (Start: June)](https://algojobs.io/jobs/2600783) | [Twilio](https://algojobs.io/company/twilio/) | N/A | Remote - Ireland |
+| 12/16/2024 | [Software Engineer Intern - Applied Machine Learning](https://algojobs.io/jobs/2599182) | [Helsing](https://algojobs.io/company/helsing/) | N/A | Munich |
+| 12/16/2024 | [Software Engineer - Infrastructure](https://algojobs.io/jobs/2599483) | [Neo4j](https://algojobs.io/company/neo4j/) | N/A | Malmö |
+| 12/16/2024 | [Software Engineer](https://algojobs.io/jobs/2600475) | [Planet](https://algojobs.io/company/planetlabs/) | N/A | Berlin, Germany |
+| 12/16/2024 | [Software Engineer](https://algojobs.io/jobs/2602282) | [Amex GBT](https://algojobs.io/company/travelhrportal/) | N/A | Paris, France |
+| 12/16/2024 | [Software Engineer](https://algojobs.io/jobs/2602366) | [100](https://algojobs.io/company/trimble/) | N/A | Poland - Remote / Italy - Remote / Spain - Madrid (Transporeon) / ... |
+| 12/16/2024 | [Software Engineer](https://algojobs.io/jobs/2603105) | [Endeavor](https://algojobs.io/company/wmeimg/) | N/A | Poland - Gliwice |
+| 12/16/2024 | [Software Engineer](https://algojobs.io/jobs/2605018) | [India: Mastercard Technology Private Limited](https://algojobs.io/company/mastercard/) | N/A | Dublin, Ireland |
+| 12/16/2024 | [Software Engineer](https://algojobs.io/jobs/2605715) | [DraftKings Inc.](https://algojobs.io/company/draftkings/) | N/A | Dublin, IE, Ireland |
+| 12/16/2024 | [Software Engineer - Front End](https://algojobs.io/jobs/2598293) | [Farfetch](https://algojobs.io/company/farfetch/) | N/A | Porto (Hybrid) |
+| 12/16/2024 | [Software Engineer (Professional Services)](https://algojobs.io/jobs/2601915) | [Rossum](https://algojobs.io/company/rossum.ai/) | N/A | Prague |
+| 12/16/2024 | [Software Engineer – Wordpress](https://algojobs.io/jobs/2602686) | [Pernod Ricard](https://algojobs.io/company/pernodricard/) | N/A | Paris, France |
+| 12/16/2024 | [Software Engineer .Net/Java](https://algojobs.io/jobs/2603447) | [Global Payments Inc.](https://algojobs.io/company/tsys/) | N/A | Nicosia, Cyprus |
+| 12/16/2024 | [Software Engineer - Student Internship](https://algojobs.io/jobs/2597768) | [ReversingLabs](https://algojobs.io/company/reversinglabs/) | N/A | Zagreb, Grad Zagreb, Croatia (Hybrid) |
+| 12/16/2024 | [Software Engineer with C++](https://algojobs.io/jobs/2604826) | [2001 Sabre Global Services S.A](https://algojobs.io/company/sabre/) | N/A | Krakow, Małopolskie, Poland |
+| 12/16/2024 | [Software Engineer with C++](https://algojobs.io/jobs/2604827) | [2001 Sabre Global Services S.A](https://algojobs.io/company/sabre/) | N/A | Krakow, Małopolskie, Poland |
+| 12/16/2024 | [Software Engineer with C++](https://algojobs.io/jobs/2604828) | [2001 Sabre Global Services S.A](https://algojobs.io/company/sabre/) | N/A | Krakow, Małopolskie, Poland |
+| 12/16/2024 | [Staff Software Engineer - Data Infrastructure](https://algojobs.io/jobs/2598348) | [Woven by Toyota](https://algojobs.io/company/woven-by-toyota/) | N/A | London (Hybrid) |
+| 12/16/2024 | [Embedded Software Engineer - Linea Research](https://algojobs.io/jobs/2597260) | [The Focusrite Group](https://algojobs.io/company/focusrite/) | N/A | Letchworth Garden City, England, United Kingdom (Hybrid) |
+| 12/14/2024 | [Software Engineer - Integrations Specialist](https://algojobs.io/jobs/2592253) | [Zinc](https://algojobs.io/company/zinc-work/) | N/A | London, England, United Kingdom (Hybrid) |
+| 12/13/2024 | [Software Engineer](https://algojobs.io/jobs/2587583) | [SevenRooms](https://algojobs.io/company/sevenrooms/) | N/A | London, United Kingdom |
+| 12/13/2024 | [Software Engineer](https://algojobs.io/jobs/2587600) | [Samsara](https://algojobs.io/company/samsara/) | N/A | Remote - Poland |
+| 12/13/2024 | [Software Engineer - Orchestration](https://algojobs.io/jobs/2586306) | [Neo4j](https://algojobs.io/company/neo4j/) | N/A | London |
+| 12/13/2024 | [Software Engineer - Orchestration](https://algojobs.io/jobs/2586311) | [Neo4j](https://algojobs.io/company/neo4j/) | N/A | Malmö |
+| 12/13/2024 | [Software Engineer - Enablement](https://algojobs.io/jobs/2586307) | [Neo4j](https://algojobs.io/company/neo4j/) | N/A | Malmö |
+| 12/13/2024 | [Software Engineer (K8s & Go) - GraphQL](https://algojobs.io/jobs/2586312) | [Neo4j](https://algojobs.io/company/neo4j/) | N/A | Malmö |
+| 12/13/2024 | [Software Engineer - Graph Analytics](https://algojobs.io/jobs/2586309) | [Neo4j](https://algojobs.io/company/neo4j/) | N/A | Malmö |
+| 12/13/2024 | [Software Engineer](https://algojobs.io/jobs/2595333) | [HP](https://algojobs.io/company/hp/) | N/A | Sant Cugat del Valles, Barcelona, Spain / Athens, Attiki, Greece |
+| 12/13/2024 | [Software Engineer in Engineering Productivity - Madrid](https://algojobs.io/jobs/2584982) | [Aircall](https://algojobs.io/company/aircall/) | N/A | Madrid (Hybrid) |
+| 12/13/2024 | [Software Engineer (with Cloud experience)](https://algojobs.io/jobs/2595171) | [Rabobank](https://algojobs.io/company/rabobank/) | N/A | Utrecht Croeselaan 18, Netherlands |
+| 12/13/2024 | [Software Engineer - Unity](https://algojobs.io/jobs/2588250) | [Rocket Science Group](https://algojobs.io/company/rocketsciencegg/) | N/A | Brighton, UK |
+| 12/13/2024 | [Software Engineering Placement Student](https://algojobs.io/jobs/2592812) | [Sensata](https://algojobs.io/company/sensata/) | N/A | Antrim, United Kingdom |
+| 12/13/2024 | [Software Security Engineer Intern (f/m) (6 months)](https://algojobs.io/jobs/2585238) | [Ledger](https://algojobs.io/company/ledger/) | $800 - $1500 | Paris, France |
+| 12/13/2024 | [Software Development Engineer (Python) - HiredScore](https://algojobs.io/jobs/2595128) | [Workday India Private Limited](https://algojobs.io/company/workday/) | N/A | Ireland, Dublin |
 | 12/12/2024 | [Senior Software Engineer, Pricing&Packaging](https://algojobs.io/jobs/2572911) | [dbt Labs](https://algojobs.io/company/dbtlabsinc/) | N/A | Ireland - Remote |
 | 12/12/2024 | [Associate Software Engineer](https://algojobs.io/jobs/2572901) | [Catapult Sports](https://algojobs.io/company/catapultsports/) | N/A | London, UK |
 | 12/12/2024 | [Software Engineer (Motorsport)](https://algojobs.io/jobs/2572903) | [Catapult Sports](https://algojobs.io/company/catapultsports/) | N/A | London  |
@@ -30,6 +69,7 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 12/11/2024 | [Software Engineer](https://algojobs.io/jobs/2560015) | [mytraffic](https://algojobs.io/company/mytraffic/) | N/A | Paris |
 | 12/11/2024 | [Software Engineer](https://algojobs.io/jobs/2560016) | [mytraffic](https://algojobs.io/company/mytraffic/) | N/A | Madrid (Remote) |
 | 12/11/2024 | [Software Engineer](https://algojobs.io/jobs/2563644) | [250](https://algojobs.io/company/trimble/) | N/A | Germany - Biberach |
+| 12/11/2024 | [Software Engineer](https://algojobs.io/jobs/2563741) | [Genesys](https://algojobs.io/company/genesys/) | N/A | Ireland |
 | 12/11/2024 | [Software Engineer (Ruby on Rails)](https://algojobs.io/jobs/2571029) | [Boundless](https://algojobs.io/company/boundlesshq/) | N/A | Ireland (Remote) |
 | 12/11/2024 | [Software Engineer (m/w/d)](https://algojobs.io/jobs/2564817) | [Hillenbrand](https://algojobs.io/company/hillenbrand/) | N/A | Coperion / All - Netherlands |
 | 12/11/2024 | [Software Engineer I](https://algojobs.io/jobs/2566158) | [Shutterstock](https://algojobs.io/company/shutterstock/) | N/A | Dublin, Ireland |
@@ -37,7 +77,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 12/10/2024 | [Software Engineer](https://algojobs.io/jobs/2547753) | [SambaNova Systems](https://algojobs.io/company/sambanovasystems/) | N/A | Stockholm, Sweden |
 | 12/10/2024 | [Software Engineer Sênior - .NET/ #C](https://algojobs.io/jobs/2549753) | [Stone - Linkedin](https://algojobs.io/company/stone/) | N/A | Remoto |
 | 12/10/2024 | [Software Engineer (Golang)](https://algojobs.io/jobs/2548372) | [SumUp](https://algojobs.io/company/sumup/) | N/A | Berlin, Germany |
-| 12/10/2024 | [Software Engineer](https://algojobs.io/jobs/2547646) | [Speechmatics](https://algojobs.io/company/speechmatics/) | N/A | London, England, United Kingdom |
 | 12/10/2024 | [Software Engineering Lead - Typescript](https://algojobs.io/jobs/2547661) | [Argent](https://algojobs.io/company/argent/) | N/A | Europe (Remote) |
 | 12/10/2024 | [Software Development Engineer - Payment Flows](https://algojobs.io/jobs/2548595) | [GoCardless](https://algojobs.io/company/gocardless/) | N/A | London, UK |
 | 12/10/2024 | [Software Development Engineer - Money Tracking](https://algojobs.io/jobs/2548597) | [GoCardless](https://algojobs.io/company/gocardless/) | N/A | London, UK |
@@ -72,13 +111,14 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 12/06/2024 | [Medior Software Engineer](https://algojobs.io/jobs/2519773) | [Yext](https://algojobs.io/company/yext/) | N/A | Budapest, Hungary |
 | 12/06/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2519900) | [Anaplan](https://algojobs.io/company/anaplan/) | N/A | York, United Kingdom |
 | 12/06/2024 | [Software Engineer III - UI/UX](https://algojobs.io/jobs/2520520) | [Onapsis](https://algojobs.io/company/onapsis/) | N/A | Bucharest, Bucharest, Romania |
-| 12/06/2024 | [Software Engineer (Data Platform)](https://algojobs.io/jobs/2519675) | [Wayve](https://algojobs.io/company/wayve/) | N/A | London |
 | 12/06/2024 | [Software Engineer](https://algojobs.io/jobs/2519459) | [C12 Quantum Electronics](https://algojobs.io/company/c12qe/) | N/A | Paris (Hybrid) |
 | 12/06/2024 | [Software Engineer (C++)](https://algojobs.io/jobs/2518166) | [Flexxy Recruitment Solutions](https://algojobs.io/company/flexxy-recruitment-solutions-1/) | N/A | Alkmaar, North Holland, Netherlands (Hybrid) |
 | 12/06/2024 | [Software Engineer (Front-end, React)](https://algojobs.io/jobs/2519448) | [NFQ](https://algojobs.io/company/nfq/) | N/A | Vilnius / Kaunas or remote within Lithuania |
 | 12/06/2024 | [Software Engineer - Payments](https://algojobs.io/jobs/2522371) | [Mollie](https://algojobs.io/company/mollie/) | N/A | Lisbon |
 | 12/06/2024 | [Software Development Engineer](https://algojobs.io/jobs/2524664) | [Workday, Inc.](https://algojobs.io/company/workday/) | N/A | Ireland, Dublin |
+| 12/06/2024 | [Senior Software Engineer (m/f/d)](https://algojobs.io/jobs/2530422) | [Ververica GmbH](https://algojobs.io/company/ververica/) | N/A | Berlin, Berlin, Germany (Hybrid) |
 | 12/05/2024 | [Software Engineer I](https://algojobs.io/jobs/2506444) | [Pinterest](https://algojobs.io/company/pinterest/) | N/A | Warsaw, POL |
+| 12/05/2024 | [Backend Software Engineer C# (Dublin, IR)](https://algojobs.io/jobs/2505827) | [LetsGetChecked](https://algojobs.io/company/letsgetchecked/) | $50 - $65 | Dublin, Ireland |
 | 12/05/2024 | [Software Engineering Trainee](https://algojobs.io/jobs/2505825) | [LetsGetChecked](https://algojobs.io/company/letsgetchecked/) | N/A | Dublin |
 | 12/05/2024 | [Software Engineer - Data & Analytics Governance](https://algojobs.io/jobs/2506490) | [Datadog](https://algojobs.io/company/datadog/) | N/A | Paris, France |
 | 12/05/2024 | [Senior Software Engineer (JS/Python/GenAI)](https://algojobs.io/jobs/2505742) | [YLD](https://algojobs.io/company/yld/) | N/A | Remote (EU) |
@@ -88,12 +128,14 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 12/05/2024 | [Software Engineer - Java / React (F/H)](https://algojobs.io/jobs/2506266) | [Mirakl](https://algojobs.io/company/mirakl/) | N/A | Remote - France |
 | 12/05/2024 | [Software Engineer - Java / React (F/H)](https://algojobs.io/jobs/2506265) | [Mirakl](https://algojobs.io/company/mirakl/) | N/A | Bordeaux, France |
 | 12/05/2024 | [Software Engineer - Java / React (F/H)](https://algojobs.io/jobs/2505349) | [Mirakl - Labs](https://algojobs.io/company/mirakllabs/) | N/A | Paris, France |
+| 12/05/2024 | [Embedded Software Engineer](https://algojobs.io/jobs/2505806) | [Bold Valuable Technology](https://algojobs.io/company/boldvaluabletechnology/) | N/A | Montmeló, Barcelona |
 | 12/05/2024 | [Software Engineer](https://algojobs.io/jobs/2512351) | [Autodesk](https://algojobs.io/company/autodesk/) | N/A | Norway - Oslo |
 | 12/05/2024 | [Software Engineer Intern - E-Commerce (f/m)](https://algojobs.io/jobs/2504790) | [Ledger](https://algojobs.io/company/ledger/) | N/A | Paris, France (Hybrid) |
 | 12/05/2024 | [Software Engineer im Bereich Künstliche Intelligenz (m/w/d)](https://algojobs.io/jobs/2509826) | [Fronius](https://algojobs.io/company/fronius/) | N/A | Thalheim bei Wels / Vienna (Wienerbergstraße 11) |
 | 12/05/2024 | [Software Engineer in Machine Learning (f/m/*)](https://algojobs.io/jobs/2509071) | [Cradle](https://algojobs.io/company/cradlebio/) | N/A | Zürich |
 | 12/05/2024 | [Software Engineer II](https://algojobs.io/jobs/2512368) | [Workhuman](https://algojobs.io/company/workhuman/) | N/A | Dublin, Ireland |
 | 12/05/2024 | [Staff Software Engineer, Rust (UK)](https://algojobs.io/jobs/2504409) | [Apollo](https://algojobs.io/company/apollographql/) | N/A | United Kingdom (Remote) |
+| 12/05/2024 | [Java Software Engineer (R-17098)](https://algojobs.io/jobs/2504642) | [Dun & Bradstreet](https://algojobs.io/company/dnb/) | N/A | Solna - Sweden (Hybrid) |
 | 12/04/2024 | [Software Engineer - Infrastructure](https://algojobs.io/jobs/2493188) | [Pendo](https://algojobs.io/company/pendo/) | N/A | Sheffield, UK |
 | 12/04/2024 | [Software Quality Engineer](https://algojobs.io/jobs/2492052) | [Ketryx](https://algojobs.io/company/ketryx/) | N/A | Vienna, Austria |
 | 12/04/2024 | [Software Engineer, Full-Stack](https://algojobs.io/jobs/2493282) | [Grammarly](https://algojobs.io/company/grammarly/) | N/A | Berlin; Hybrid |
@@ -106,7 +148,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 12/04/2024 | [Software Engineer (Cloud)](https://algojobs.io/jobs/2490574) | [Skin Analytics](https://algojobs.io/company/skinanalytics/) | N/A | London, England, United Kingdom (Hybrid) |
 | 12/04/2024 | [Software Engineering Tech Lead](https://algojobs.io/jobs/2494726) | [100](https://algojobs.io/company/trimble/) | N/A | Germany - Mönchengladbach (Transporeon) / Netherlands - Remote / Italy - Remote / ... |
 | 12/04/2024 | [Software Engineering Lead](https://algojobs.io/jobs/2497875) | [Citi](https://algojobs.io/company/citi/) | N/A | Warsaw  Poland |
-| 12/03/2024 | [Software Engineer](https://algojobs.io/jobs/2477608) | [Speechmatics](https://algojobs.io/company/speechmatics/) | N/A | Cambridge, England, United Kingdom |
 | 12/03/2024 | [Software Engineer (Monetization)](https://algojobs.io/jobs/2479372) | [The Fork](https://algojobs.io/company/thefork/) | N/A | Paris |
 | 12/03/2024 | [Software Engineer (Java)](https://algojobs.io/jobs/2478621) | [Salesloft](https://algojobs.io/company/salesloft/) | N/A | Warsaw, Poland |
 | 12/03/2024 | [Software Engineer I (Java)](https://algojobs.io/jobs/2477918) | [Jamf](https://algojobs.io/company/jamf/) | N/A | Brno, Czechia |
@@ -124,14 +165,11 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 12/03/2024 | [Staff Software Engineer (C#)](https://algojobs.io/jobs/2476541) | [Sonar](https://algojobs.io/company/sonarsource/) | N/A | Geneva |
 | 12/02/2024 | [Software Engineer](https://algojobs.io/jobs/2462733) | [Lucid Motors](https://algojobs.io/company/lucidmotors/) | N/A | Toulouse, OC |
 | 12/02/2024 | [Software Engineer 2 - Remote](https://algojobs.io/jobs/2463596) | [TrueCar ](https://algojobs.io/company/truecar/) | $96K - $135K | Nationwide (Remote) |
-| 12/02/2024 | [Senior Software Engineer - Backend](https://algojobs.io/jobs/2462117) | [Dashlane](https://algojobs.io/company/dashlane/) | N/A | Paris, France |
 | 12/02/2024 | [Software Engineer II](https://algojobs.io/jobs/2462700) | [Kaseya Careers](https://algojobs.io/company/kaseya/) | N/A | Kraków, Lesser Poland Voivodeship, Poland |
-| 12/02/2024 | [Senior Software Engineer (Reporting and Integrations)](https://algojobs.io/jobs/2462050) | [Smartly](https://algojobs.io/company/smartlyio/) | N/A | Berlin |
 | 12/02/2024 | [Senior Software Engineer (Reporting and Integrations)](https://algojobs.io/jobs/2462051) | [Smartly](https://algojobs.io/company/smartlyio/) | N/A | Helsinki |
 | 12/02/2024 | [Software Engineer](https://algojobs.io/jobs/2462458) | [Ocado Group](https://algojobs.io/company/ocadogroup/) | N/A | Sofia, Bulgaria |
 | 12/02/2024 | [Senior Software Engineer (Linux Desktop)](https://algojobs.io/jobs/2462319) | [Proton](https://algojobs.io/company/proton/) | N/A | Barcelona;Prague;Vilnius;Skopje;London;Paris; |
 | 12/02/2024 | [Software Engineer (Full-stack)](https://algojobs.io/jobs/2461797) | [NFQ](https://algojobs.io/company/nfq/) | N/A | Krakow / Remote within Poland |
-| 12/02/2024 | [Software Engineer III](https://algojobs.io/jobs/2467573) | [202 Proofpoint Argentina SRL](https://algojobs.io/company/proofpoint/) | N/A | London, England / Reading, England |
 | 12/02/2024 | [Software Development Engineer - Ethos](https://algojobs.io/jobs/2466345) | [NDIN-Adobe Systems India Private Limited](https://algojobs.io/company/adobe/) | N/A | Bucharest, Romania |
 | 12/02/2024 | [Backend Software Engineer Intern](https://algojobs.io/jobs/2461445) | [Back Market](https://algojobs.io/company/backmarket/) | N/A | Barcelona |
 | 11/29/2024 | [Software Engineer](https://algojobs.io/jobs/2304343) | [Axon](https://algojobs.io/company/axon/) | N/A | London, England, United Kingdom |
@@ -159,6 +197,8 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/28/2024 | [Software Engineering Intern, Autonomous Vehicle Calibration](https://algojobs.io/jobs/2306626) | [NVIDIA](https://algojobs.io/company/nvidia/) | N/A | Switzerland, Zurich |
 | 11/28/2024 | [Senior Software Engineer - ML-driven applications](https://algojobs.io/jobs/2302126) | [Simple Machines](https://algojobs.io/company/simple-machines-3/) | N/A | London, England, United Kingdom (Hybrid) |
 | 11/28/2024 | [Senior Software Engineer (Python)](https://algojobs.io/jobs/2295801) | [OpenX](https://algojobs.io/company/openx/) | N/A | Krakow (Remote) |
+| 11/27/2024 | [Senior Software Engineer, C++](https://algojobs.io/jobs/2296875) | [Ripple ](https://algojobs.io/company/ripple/) | N/A | London, UK |
+| 11/27/2024 | [Staff Software Engineer, C++](https://algojobs.io/jobs/2296877) | [Ripple ](https://algojobs.io/company/ripple/) | N/A | London, UK |
 | 11/27/2024 | [Software Engineer, Cloud Services (Map & Route)](https://algojobs.io/jobs/2296334) | [Wayve](https://algojobs.io/company/wayve/) | N/A | London |
 | 11/27/2024 | [Software Engineer, Onboard (Map & Route)](https://algojobs.io/jobs/2296336) | [Wayve](https://algojobs.io/company/wayve/) | N/A | London |
 | 11/27/2024 | [Software Engineer (f/m/d)](https://algojobs.io/jobs/2289117) | [Contentful](https://algojobs.io/company/contentful/) | N/A | Berlin, Germany |
@@ -171,7 +211,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/27/2024 | [Lead Software Engineer - Sandbox](https://algojobs.io/jobs/2289100) | [Recorded Future](https://algojobs.io/company/recordedfuture/) | N/A | Gothenburg, Sweden |
 | 11/27/2024 | [Software Engineer iOS](https://algojobs.io/jobs/2302190) | [Pix4D](https://algojobs.io/company/pix4d/) | N/A | Madrid, Community of Madrid, Spain (Hybrid) |
 | 11/27/2024 | [Software Engineer - Embedded Systems [Huracan]](https://algojobs.io/jobs/2299138) | [The Exploration Company](https://algojobs.io/company/the-exploration-company/) | N/A | Bordeaux, France |
-| 11/27/2024 | [Software Engineer - Open Data](https://algojobs.io/jobs/2291796) | [Southern Water](https://algojobs.io/company/southernwater/) | N/A | Worthing / FALMER |
 | 11/27/2024 | [Software Engineer (Full-Stack)](https://algojobs.io/jobs/2299211) | [Rocket Science Group](https://algojobs.io/company/rocketsciencegg/) | N/A | Cardiff, Wales, UK |
 | 11/27/2024 | [Software Development Engineer](https://algojobs.io/jobs/2292570) | [Micron](https://algojobs.io/company/micron/) | N/A | Fab 10N/X, Singapore |
 | 11/27/2024 | [Android Software Engineer](https://algojobs.io/jobs/2294903) | [Bespot](https://algojobs.io/company/bespot/) | N/A | Athens, Attica, Greece (Remote) |
@@ -181,16 +220,15 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/26/2024 | [Java Software Engineer](https://algojobs.io/jobs/2281160) | [Vonage](https://algojobs.io/company/vonage/) | N/A | Wroclaw, Poland |
 | 11/26/2024 | [Software Engineer II, Backend (Comms Platform)](https://algojobs.io/jobs/2281176) | [Affirm](https://algojobs.io/company/affirm/) | N/A | Remote Poland |
 | 11/26/2024 | [Software Engineer II - Java (m/f/d)](https://algojobs.io/jobs/2280579) | [Onapsis](https://algojobs.io/company/onapsis/) | N/A | Heidelberg, Germany |
-| 11/26/2024 | [Software Engineer (Ruby)](https://algojobs.io/jobs/2279639) | [Smartly](https://algojobs.io/company/smartlyio/) | N/A | Helsinki |
 | 11/26/2024 | [Software Engineer (Berlin, General Posting)](https://algojobs.io/jobs/2279436) | [Cresta](https://algojobs.io/company/cresta/) | N/A | Berlin, Germany (Hybrid) |
 | 11/26/2024 | [Software Engineer - Full Stack](https://algojobs.io/jobs/2288423) | [Farfetch](https://algojobs.io/company/farfetch/) | N/A | Porto (Hybrid) |
 | 11/26/2024 | [Software Engineer Graduate Programme - September 2025](https://algojobs.io/jobs/2277080) | [The Telegraph](https://algojobs.io/company/telegraph/) | N/A | London, England, United Kingdom |
 | 11/26/2024 | [Software Engineer - ML/AI](https://algojobs.io/jobs/2288695) | [Deliverect](https://algojobs.io/company/deliverect/) | N/A | Amersfoort (Hybrid) |
 | 11/26/2024 | [Software Engineer Intern, London](https://algojobs.io/jobs/2282185) | [Deductive AI](https://algojobs.io/company/deductive/) | N/A | London, UK |
-| 11/26/2024 | [Software Engineer Intern - Cleemy](https://algojobs.io/jobs/2288910) | [Lucca](https://algojobs.io/company/lucca/) | N/A | Marseille / Nantes / Paris |
 | 11/26/2024 | [Software Engineer III](https://algojobs.io/jobs/2285992) | [Workhuman](https://algojobs.io/company/workhuman/) | N/A | Dublin, Ireland |
 | 11/26/2024 | [Software Development Engineer - HiredScore](https://algojobs.io/jobs/2285251) | [Workday Norway AS](https://algojobs.io/company/workday/) | N/A | Ireland, Dublin |
 | 11/26/2024 | [Senior Software Engineer – Italy](https://algojobs.io/jobs/2288456) | [Voxy Inc](https://algojobs.io/company/voxy/) | N/A | Torino (Remote) |
+| 11/26/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2278597) | [Welocalize](https://algojobs.io/company/welocalize/) | N/A | Spain / Barcelona, Spain (Remote) |
 | 11/25/2024 | [Software Engineer Intern (Python)](https://algojobs.io/jobs/2280963) | [Garda Capital Partners](https://algojobs.io/company/gardacp/) | N/A | Zug, Zug, Switzerland |
 | 11/25/2024 | [Software Engineer - Tools and Infrastructure](https://algojobs.io/jobs/2272670) | [Intrinsic](https://algojobs.io/company/intrinsicrobotics/) | N/A | Munich, Germany |
 | 11/25/2024 | [Junior Software Engineer - AI Platform](https://algojobs.io/jobs/2272403) | [Algolia](https://algojobs.io/company/algolia/) | N/A | Paris, France |
@@ -224,6 +262,7 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/22/2024 | [Software Engineer IV](https://algojobs.io/jobs/2303120) | [PDI Technologies](https://algojobs.io/company/pditechnologies/) | N/A | Maidenhead (Hybrid) |
 | 11/22/2024 | [Software Engineering Product Owner](https://algojobs.io/jobs/2261199) | [HP](https://algojobs.io/company/hp/) | N/A | Sant Cugat del Valles, Barcelona, Spain |
 | 11/22/2024 | [Staff Software Engineer](https://algojobs.io/jobs/2264094) | [Sylvera](https://algojobs.io/company/sylvera/) | N/A | London (Hybrid) |
+| 11/22/2024 | [Embedded Software Engineer](https://algojobs.io/jobs/2264144) | [E-Space](https://algojobs.io/company/espace/) | N/A | Loughborough |
 | 11/21/2024 | [Software Engineer II (Open banking)](https://algojobs.io/jobs/2257311) | [Affirm](https://algojobs.io/company/affirm/) | N/A | Remote London |
 | 11/21/2024 | [Senior Software Engineer (AI studio)](https://algojobs.io/jobs/2255267) | [Nebius](https://algojobs.io/company/nebius/) | N/A | Amsterdam |
 | 11/21/2024 | [Software Engineer - Enterprise Applications](https://algojobs.io/jobs/2256704) | [Dataiku Misc Postings](https://algojobs.io/company/dataikujobs/) | N/A | Netherlands, Amsterdam |
@@ -236,7 +275,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/21/2024 | [Software Engineer - United Kingdom](https://algojobs.io/jobs/2253684) | [DataVisor](https://algojobs.io/company/datavisor-jobs/) | N/A | United Kingdom (Remote) |
 | 11/21/2024 | [Software Engineer Front "Design System"](https://algojobs.io/jobs/2261753) | [Babel](https://algojobs.io/company/babelgroup/) | N/A | MADRID, Spain |
 | 11/21/2024 | [Software Engineer - Solution Integrations (Must be in UK)](https://algojobs.io/jobs/2254384) | [PolyAI](https://algojobs.io/company/poly-ai/) | N/A | London, England, United Kingdom (Hybrid) |
-| 11/21/2024 | [Software Development Engineer - Application Development](https://algojobs.io/jobs/2261159) | [Workday (NZ) Unlimited](https://algojobs.io/company/workday/) | N/A | Ireland, Dublin |
 | 11/21/2024 | [Software Development Engineer II, C++, Automotive Integration](https://algojobs.io/jobs/2258815) | [Mapbox](https://algojobs.io/company/mapbox/) | N/A | Mapbox Helsinki |
 | 11/21/2024 | [Speculative - Software Engineer - Payments](https://algojobs.io/jobs/2253451) | [Root Systems](https://algojobs.io/company/rootsystems/) | N/A | Athens, Attiki, Greece (Hybrid) |
 | 11/20/2024 | [Senior Software Engineer, Crossplatform](https://algojobs.io/jobs/2246433) | [dbt Labs](https://algojobs.io/company/dbtlabsinc/) | N/A | Romania - Remote |
@@ -252,6 +290,7 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/20/2024 | [Software Engineer - Milano [DIG]](https://algojobs.io/jobs/2252531) | [PricewaterhouseCoopers Service Delivery Center (Kolkata) Private Limited](https://algojobs.io/company/pwc/) | N/A | Milan, Italy |
 | 11/20/2024 | [Software Development Engineer](https://algojobs.io/jobs/2252497) | [Clario](https://algojobs.io/company/clarioclinical/) | N/A | Budapest, Hungary |
 | 11/19/2024 | [Senior Software Engineer - Sandbox](https://algojobs.io/jobs/2237607) | [Recorded Future](https://algojobs.io/company/recordedfuture/) | N/A | Gothenburg, Sweden |
+| 11/19/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2238247) | [Teads](https://algojobs.io/company/teads/) | N/A | Paris |
 | 11/19/2024 | [Staff Software Engineer](https://algojobs.io/jobs/2239157) | [Vonage](https://algojobs.io/company/vonage/) | N/A | Barcelona, Spain  |
 | 11/19/2024 | [Software Engineer](https://algojobs.io/jobs/2241759) | [Edenred](https://algojobs.io/company/edenpeople/) | N/A | United Kingdom - London - Paddington (PPS) / United Kingdom - Swindon |
 | 11/19/2024 | [Software Engineer](https://algojobs.io/jobs/2243013) | [NCR Voyix](https://algojobs.io/company/ncr/) | N/A | PRAGUE, CZE, Czechia |
@@ -259,10 +298,10 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/19/2024 | [Software Engineer II](https://algojobs.io/jobs/2240732) | [Accolade, Inc.](https://algojobs.io/company/osv_accolade/) | N/A | Prague, Czechia |
 | 11/19/2024 | [Software Engineer Fullstack & AI/ML](https://algojobs.io/jobs/2244077) | [AVEVA AP SB](https://algojobs.io/company/aveva/) | N/A | Cambridge, United Kingdom |
 | 11/19/2024 | [Java Software Engineer (R-17058)](https://algojobs.io/jobs/2272124) | [Dun & Bradstreet](https://algojobs.io/company/dnb/) | N/A | Oslo - Norway (Hybrid) |
+| 11/19/2024 | [Senior Software Engineer - CI Team](https://algojobs.io/jobs/2240082) | [Snowflake](https://algojobs.io/company/snowflake/) | N/A | PL-Warsaw |
 | 11/18/2024 | [Software Development Engineer - Payments Runway](https://algojobs.io/jobs/2228898) | [GoCardless](https://algojobs.io/company/gocardless/) | N/A | London, UK |
 | 11/18/2024 | [Senior Software Engineer (Multi-Platform Workspaces)](https://algojobs.io/jobs/2227646) | [Smartly](https://algojobs.io/company/smartlyio/) | N/A | Helsinki |
 | 11/18/2024 | [Software Engineer (m/w/d) Java](https://algojobs.io/jobs/2310342) | [AXA](https://algojobs.io/company/de-axa/) | N/A | KÖLN, DE |
-| 11/18/2024 | [Software Engineer II](https://algojobs.io/jobs/2230621) | [Bank of America](https://algojobs.io/company/ghr/) | N/A | Bromley, United Kingdom |
 | 11/18/2024 | [Software Engineer III, Backend - Foundry](https://algojobs.io/jobs/2232297) | [CrowdStrike](https://algojobs.io/company/crowdstrike/) | N/A | Denmark - Aarhus |
 | 11/18/2024 | [Software Engineer - Backend](https://algojobs.io/jobs/2230523) | [Rocket Science Group](https://algojobs.io/company/rocketsciencegg/) | N/A | Cardiff, Wales, UK |
 | 11/18/2024 | [Software Engineer Angular](https://algojobs.io/jobs/2233944) | [Babel](https://algojobs.io/company/babelgroup/) | N/A | MÁLAGA / OVIEDO / BARCELONA / ... |
@@ -279,11 +318,13 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/15/2024 | [Senior Software Engineer - Real-Time Systems](https://algojobs.io/jobs/2212956) | [Optiver ](https://algojobs.io/company/optiverus/) | N/A | Amsterdam, North Holland, Netherlands |
 | 11/15/2024 | [Staff Software Engineer, Framework Engineering](https://algojobs.io/jobs/2212771) | [Asana](https://algojobs.io/company/asana/) | N/A | Reykjavík |
 | 11/15/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2212722) | [HeliosX](https://algojobs.io/company/heliosx/) | N/A | London |
-| 11/15/2024 | [Software Engineer (Professional Services)](https://algojobs.io/jobs/2214276) | [Rossum](https://algojobs.io/company/rossum.ai/) | N/A | Prague |
 | 11/15/2024 | [Software Engineer, Front End Developer](https://algojobs.io/jobs/2214377) | [Satispay](https://algojobs.io/company/satispay-2/) | N/A | Milan, Italy |
 | 11/15/2024 | [Senior Software Engineer, Network Lifecycle Management](https://algojobs.io/jobs/2214332) | [Chainalysis](https://algojobs.io/company/chainalysis-careers/) | N/A | United Kingdom |
+| 11/15/2024 | [Senior Software Engineer (PHP) Remote or Hybrid Germany (m/f/d)](https://algojobs.io/jobs/2214355) | [Roadsurfer](https://algojobs.io/company/roadsurfer.com/) | N/A | Remote (Germany) |
+| 11/15/2024 | [Senior Software Engineer (PHP) Remote Spain (m/f/d)](https://algojobs.io/jobs/2214356) | [Roadsurfer](https://algojobs.io/company/roadsurfer.com/) | N/A | Remote (Spain) |
 | 11/14/2024 | [Software Engineer](https://algojobs.io/jobs/2203057) | [Ketryx](https://algojobs.io/company/ketryx/) | N/A | Vienna, Austria |
 | 11/14/2024 | [Software Engineer, Generative AI Pay & Incentives](https://algojobs.io/jobs/2204487) | [Scale AI](https://algojobs.io/company/scaleai/) | N/A | Budapest, Hungary |
+| 11/14/2024 | [Backend Software Engineer (Paris or Remote France)](https://algojobs.io/jobs/2203141) | [Alma](https://algojobs.io/company/alma31/) | N/A | Paris, Paris, France (Remote) |
 | 11/14/2024 | [Software Engineer - Understanding](https://algojobs.io/jobs/2202757) | [Algolia](https://algojobs.io/company/algolia/) | N/A | London, England |
 | 11/14/2024 | [Software Engineer - Understanding](https://algojobs.io/jobs/2202754) | [Algolia](https://algojobs.io/company/algolia/) | N/A | Paris, France |
 | 11/14/2024 | [Software Engineer, Engine Support](https://algojobs.io/jobs/2204476) | [Unity Technologies](https://algojobs.io/company/unity3d/) | N/A | Brighton, United Kingdom |
@@ -297,6 +338,7 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/13/2024 | [Software Engineer - Full-Stack (Remote)](https://algojobs.io/jobs/2192534) | [Skedda](https://algojobs.io/company/skedda/) | $65K - $75K | Remote in CET |
 | 11/13/2024 | [Software Engineer, Frontend - Help Experience](https://algojobs.io/jobs/2195332) | [Squarespace](https://algojobs.io/company/squarespace/) | N/A | Dublin |
 | 11/13/2024 | [Senior Software Engineer, Notes](https://algojobs.io/jobs/2192479) | [Box](https://algojobs.io/company/boxinc/) | N/A | Warsaw, Poland |
+| 11/13/2024 | [C++ Software Engineer (Trading Core Engine Team)](https://algojobs.io/jobs/2192860) | [Exness jobs for internal candidates](https://algojobs.io/company/internalhiring/) | N/A | Cyprus |
 | 11/13/2024 | [Software Engineer](https://algojobs.io/jobs/2195864) | [Paddle](https://algojobs.io/company/paddle/) | N/A | Lisbon |
 | 11/13/2024 | [Software Engineer](https://algojobs.io/jobs/2195944) | [Traba](https://algojobs.io/company/traba/) | $140K - $170K | Traba HQ |
 | 11/13/2024 | [Software Engineer II](https://algojobs.io/jobs/2196490) | [Accolade, Inc.](https://algojobs.io/company/osv_accolade/) | N/A | Prague, Czechia |
@@ -309,7 +351,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/13/2024 | [Backend Software Engineer - Senior level (Remote, Full-time)](https://algojobs.io/jobs/2190439) | [Transifex](https://algojobs.io/company/transifex/) | N/A | Marousi, Attica, Greece (Remote) |
 | 11/12/2024 | [Software Engineer Intern (Summer 2025)](https://algojobs.io/jobs/2185056) | [Grammarly](https://algojobs.io/company/grammarly/) | N/A | Berlin; Hybrid |
 | 11/12/2024 | [Software Development Engineer - Connectivity](https://algojobs.io/jobs/2176222) | [GoCardless](https://algojobs.io/company/gocardless/) | N/A | Riga, Latvia |
-| 11/12/2024 | [Software Engineer](https://algojobs.io/jobs/2182537) | [Printec](https://algojobs.io/company/printec/) | N/A | Bratislava, Bratislava Region, Slovakia (Hybrid) |
 | 11/12/2024 | [Software Engineer, All Levels – Delivery International Team](https://algojobs.io/jobs/2186737) | [Global Payments Inc.](https://algojobs.io/company/tsys/) | N/A | Nicosia, Cyprus |
 | 11/12/2024 | [Software Engineer C#](https://algojobs.io/jobs/2187471) | [Motorola Solutions](https://algojobs.io/company/motorolasolutions/) | N/A | Krakow, Poland |
 | 11/12/2024 | [Senior Software Engineer - (Hybrid)](https://algojobs.io/jobs/2188826) | [Citi](https://algojobs.io/company/citi/) | N/A | Dublin  Ireland (Hybrid) |
@@ -335,6 +376,7 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/08/2024 | [Software Engineer II - Full Stack (Viator)](https://algojobs.io/jobs/2167016) | [Tripadvisor](https://algojobs.io/company/tripadvisor/) | N/A | Poland |
 | 11/08/2024 | [Software Engineer II - iOS (Viator)](https://algojobs.io/jobs/2167020) | [Tripadvisor](https://algojobs.io/company/tripadvisor/) | N/A | Poland |
 | 11/08/2024 | [Software Engineer II (Viator)](https://algojobs.io/jobs/2167019) | [Tripadvisor](https://algojobs.io/company/tripadvisor/) | N/A | Portugal  |
+| 11/08/2024 | [Graduate Software Engineer](https://algojobs.io/jobs/2166296) | [Optiver ](https://algojobs.io/company/optiverus/) | N/A | Amsterdam, North Holland, Netherlands |
 | 11/08/2024 | [(Sr.) Software Engineer (m/w/x)](https://algojobs.io/jobs/2165687) | [Grover](https://algojobs.io/company/grover/) | N/A | Berlin HQ |
 | 11/08/2024 | [Software Engineer - C++](https://algojobs.io/jobs/2194596) | [Interactive Brokers](https://algojobs.io/company/ibkr/) | N/A | Budapest, Hungary |
 | 11/08/2024 | [Software Engineer - Distributed Systems](https://algojobs.io/jobs/2165910) | [Neo4j](https://algojobs.io/company/neo4j/) | N/A | Malmö |
@@ -360,14 +402,11 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/06/2024 | [Software Engineer – Automation and Cybersecurity](https://algojobs.io/jobs/2147144) | [3Pillar](https://algojobs.io/company/3pillarglobal/) | N/A | Czech Republic (Remote) |
 | 11/06/2024 | [Software Engineer – Automation and Cybersecurity](https://algojobs.io/jobs/2147147) | [3Pillar](https://algojobs.io/company/3pillarglobal/) | N/A | Romania (Remote) |
 | 11/06/2024 | [Software Engineer Back Java Senior (Paxs&Bags)](https://algojobs.io/jobs/2150066) | [Babel](https://algojobs.io/company/babelgroup/) | N/A | MADRID, Spain |
-| 11/06/2024 | [Software Engineer - Internship](https://algojobs.io/jobs/2146426) | [Akur8](https://algojobs.io/company/akur8/) | N/A | Paris, Île-de-France, France |
 | 11/05/2024 | [Software Engineer, iOS](https://algojobs.io/jobs/2139570) | [Bitpanda](https://algojobs.io/company/bitpanda/) | N/A | Vienna, Vienna, Austria |
 | 11/05/2024 | [Software Engineer, iOS](https://algojobs.io/jobs/2139569) | [Bitpanda](https://algojobs.io/company/bitpanda/) | N/A | Barcelona, Spain |
 | 11/05/2024 | [Software Engineer](https://algojobs.io/jobs/2430520) | [Data Direct Networks](https://algojobs.io/company/ddn/) | N/A | PL (Remote) |
 | 11/05/2024 | [Software Engineer (Vue.JS)](https://algojobs.io/jobs/2165152) | [airSlate](https://algojobs.io/company/airslate/) | N/A | Wroclaw, Poland (Hybrid) |
 | 11/05/2024 | [Software Engineer R&D](https://algojobs.io/jobs/2142280) | [8413 LSI Corporation](https://algojobs.io/company/broadcom/) | N/A | BGR-Sofia-Garitage Park - Bldg 2, Bulgaria |
-| 11/05/2024 | [Software Engineer Intern - Poplee Formation](https://algojobs.io/jobs/2183337) | [Lucca](https://algojobs.io/company/lucca/) | N/A | Nantes |
-| 11/05/2024 | [Software Engineer Intern - Poplee Recrutement](https://algojobs.io/jobs/2183340) | [Lucca](https://algojobs.io/company/lucca/) | N/A | Nantes |
 | 11/05/2024 | [Software Engineer D365 (m/f/d)](https://algojobs.io/jobs/2143853) | [CWS](https://algojobs.io/company/cws/) | N/A | Sibiu (Soseaua) / Deutschlandweit / Dreieich (Plaza) |
 | 11/05/2024 | [Software Development Engineer](https://algojobs.io/jobs/2136387) | [Autodesk](https://algojobs.io/company/autodesk/) | N/A | Sheffield, GBR, United Kingdom |
 | 11/05/2024 | [Software Development Engineer](https://algojobs.io/jobs/2144142) | [NDIN-Adobe Systems India Private Limited](https://algojobs.io/company/adobe/) | N/A | Bucharest, Romania |
@@ -378,6 +417,7 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/04/2024 | [Senior Software Engineer (Engine)](https://algojobs.io/jobs/2129639) | [Workato](https://algojobs.io/company/workato/) | N/A | Lisbon, Portugal |
 | 11/04/2024 | [Senior Software Engineer (Engine)](https://algojobs.io/jobs/2129636) | [Workato](https://algojobs.io/company/workato/) | N/A | Sofia, Bulgaria |
 | 11/04/2024 | [Senior Software Engineer (Engine)](https://algojobs.io/jobs/2129644) | [Workato](https://algojobs.io/company/workato/) | N/A | Barcelona, Spain |
+| 11/04/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2129885) | [Insify](https://algojobs.io/company/insify/) | N/A | Amsterdam, North Holland, Netherlands |
 | 11/04/2024 | [Software Engineer - Python (ML)](https://algojobs.io/jobs/2127504) | [Builder.ai - What would you Build?](https://algojobs.io/company/builderai/) | N/A | London, England, United Kingdom |
 | 11/04/2024 | [Software Engineer II](https://algojobs.io/jobs/2133432) | [Cadence](https://algojobs.io/company/cadence/) | N/A | NEWCASTLE 01, United Kingdom |
 | 11/04/2024 | [Senior Software Engineer - Rust - Backend - Consumer](https://algojobs.io/jobs/2132240) | [Kraken](https://algojobs.io/company/kraken.com/) | N/A | Europe |
@@ -388,7 +428,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/01/2024 | [Software Engineer - Infrastructure](https://algojobs.io/jobs/2120641) | [Modo Energy](https://algojobs.io/company/modoenergy/) | N/A | London, United Kingdom |
 | 11/01/2024 | [Software Engineer - Data](https://algojobs.io/jobs/2120640) | [Modo Energy](https://algojobs.io/company/modoenergy/) | N/A | London, United Kingdom |
 | 11/01/2024 | [Software Engineer - Subscriptions Platform](https://algojobs.io/jobs/2120332) | [Financial Times](https://algojobs.io/company/financialtimes33/) | N/A | Sofia |
-| 11/01/2024 | [Software Engineer](https://algojobs.io/jobs/2125538) | [Motorola Solutions](https://algojobs.io/company/motorolasolutions/) | N/A | Cork, Ireland - Business CNTR (ZEI16) |
 | 11/01/2024 | [Software Engineer - Partners Platform (SEP 1024)](https://algojobs.io/jobs/2117946) | [Skroutz S.A](https://algojobs.io/company/skroutz/) | N/A | Athens, Attica, Greece (Hybrid) |
 | 11/01/2024 | [Software Engineer - Backend](https://algojobs.io/jobs/2125306) | [X (Twitter)](https://algojobs.io/company/twitter/) | $127K - $297K | New York City, NY / San Jose, CA / Palo Alto, CA / ... |
 | 11/01/2024 | [Software Engineer - C++](https://algojobs.io/jobs/2126756) | [Autodesk](https://algojobs.io/company/autodesk/) | N/A | EMEA - Poland - Kraków - Lubomirskiego |
@@ -416,9 +455,7 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 10/29/2024 | [Staff Software Engineer (Ruby/Java), Groove - Hybrid, Poland](https://algojobs.io/jobs/2091550) | [Clari](https://algojobs.io/company/clari/) | N/A | Kraków, Poland (Hybrid) |
 | 10/28/2024 | [Software Engineer, Developer Experience](https://algojobs.io/jobs/2083444) | [Asana](https://algojobs.io/company/asana/) | N/A | Reykjavík |
 | 10/28/2024 | [Software Engineer - Frontend (Access Request)](https://algojobs.io/jobs/2084854) | [Veza Technologies, Inc. ](https://algojobs.io/company/veza/) | N/A | Remote, Slovenia |
-| 10/28/2024 | [Software Engineer](https://algojobs.io/jobs/2084824) | [PlayStation Global](https://algojobs.io/company/sonyinteractiveentertainmentglobal/) | N/A | Germany, Berlin |
 | 10/28/2024 | [Software Development Engineer III, Data Engineering](https://algojobs.io/jobs/2082763) | [Groupon](https://algojobs.io/company/groupon/) | N/A | Dublin |
-| 10/28/2024 | [Stage - Software Engineer Java - Bordeaux](https://algojobs.io/jobs/2082845) | [Mirakl - Labs](https://algojobs.io/company/mirakllabs/) | N/A | Bordeaux, France |
 | 10/28/2024 | [Software Engineer](https://algojobs.io/jobs/2087124) | [056](https://algojobs.io/company/trimble/) | N/A | India - Navi Mumbai (Building Data) / Romania - Brasov (Stabiplan) |
 | 10/28/2024 | [Software Engineer (C#, .Net) Solar Energy (m/w/d)](https://algojobs.io/jobs/2087912) | [Fronius](https://algojobs.io/company/fronius/) | N/A | Thalheim bei Wels / Vienna (Wienerbergstraße 11) |
 | 10/28/2024 | [Software Engineer - Database Engine and Semantic Modeling (Remote, GBR)](https://algojobs.io/jobs/2088695) | [CrowdStrike](https://algojobs.io/company/crowdstrike/) | N/A | United Kingdom - Remote |
@@ -443,12 +480,10 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 10/24/2024 | [Software Engineer - Manufacturing Execution Systems](https://algojobs.io/jobs/2070958) | [585 P&G Ecuador Cia. Ltda.](https://algojobs.io/company/pg/) | N/A | Weybridge, United Kingdom |
 | 10/24/2024 | [Software Engineer III](https://algojobs.io/jobs/2061932) | [F5](https://algojobs.io/company/ffive/) | N/A | Warsaw, Poland |
 | 10/24/2024 | [Software Engineer, Launch Program 2025 – Prague, Czech Republic](https://algojobs.io/jobs/2061997) | [India: Mastercard Technology Private Limited](https://algojobs.io/company/mastercard/) | N/A | Prague, Czech Rep, Czechia |
-| 10/24/2024 | [Software Enginner](https://algojobs.io/jobs/2064888) | [Welocalize](https://algojobs.io/company/welocalize/) | N/A | Spain (Remote) |
 | 10/24/2024 | [Software Engineering Graduate Apprenticeship](https://algojobs.io/jobs/2062964) | [Leonardo](https://algojobs.io/company/leonardocompany/) | N/A | GB - Edinburgh, United Kingdom |
 | 10/24/2024 | [Software Engineering Degree Apprentice (Lincoln)](https://algojobs.io/jobs/2062971) | [Leonardo](https://algojobs.io/company/leonardocompany/) | N/A | GB - Lincoln, United Kingdom |
 | 10/23/2024 | [Software engineer- JAVA Coversational AI](https://algojobs.io/jobs/2056591) | [Aisera](https://algojobs.io/company/aiserajobs/) | N/A | Greece |
 | 10/23/2024 | [Software Engineer Intern - Business Solutions](https://algojobs.io/jobs/2056391) | [Dataiku](https://algojobs.io/company/dataiku/) | N/A | France, Paris |
-| 10/23/2024 | [Software Engineer Intern – Cloud Engineering Team](https://algojobs.io/jobs/2056393) | [Dataiku](https://algojobs.io/company/dataiku/) | N/A | France, Paris |
 | 10/23/2024 | [Software Engineer](https://algojobs.io/jobs/2056682) | [Kambi](https://algojobs.io/company/kambi/) | N/A | Stockholm |
 | 10/23/2024 | [Software Engineer - Vice President](https://algojobs.io/jobs/2048532) | [iCapital](https://algojobs.io/company/icapitalnetwork/) | N/A | Lisboa, Portugal |
 | 10/23/2024 | [Software Engineer](https://algojobs.io/jobs/2366837) | [MSCI](https://algojobs.io/company/globalcareers-msci/) | N/A | Budapest, PE, HU |
@@ -457,11 +492,9 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 10/22/2024 | [Software Engineer - Treasury Infrastructure](https://algojobs.io/jobs/2047118) | [Hudson River Trading](https://algojobs.io/company/wehrtyou/) | N/A | London, United Kingdom |
 | 10/22/2024 | [Senior Software Engineer - Dispatching team](https://algojobs.io/jobs/2046788) | [BLACKLANE](https://algojobs.io/company/blacklane/) | N/A | Berlin, Barcelona |
 | 10/22/2024 | [Senior Software Engineer - Full-Stack - Scenario designer](https://algojobs.io/jobs/2046725) | [Make](https://algojobs.io/company/make/) | N/A | Prague, Czechia |
-| 10/22/2024 | [Software Engineer, Respond (Python & Rust)](https://algojobs.io/jobs/2047060) | [Darktrace](https://algojobs.io/company/darktracelimited/) | N/A | London |
-| 10/22/2024 | [Software Engineer (PHP)](https://algojobs.io/jobs/2046197) | [NFQ](https://algojobs.io/company/nfq/) | N/A | Krakow / Remote within Poland |
-| 10/22/2024 | [Software Engineer (React.js, Python)](https://algojobs.io/jobs/2051029) | [OANDA](https://algojobs.io/company/oanda/) | N/A | Krakow, Poland |
 | 10/22/2024 | [Software Dev Engineer I](https://algojobs.io/jobs/2051890) | [Yahoo](https://algojobs.io/company/ouryahoo/) | N/A | Ireland - Remote |
 | 10/22/2024 | [Sr Software Engineer, Front End](https://algojobs.io/jobs/2091478) | [People.ai](https://algojobs.io/company/people-ai/) | $5K - $7K | Poland (Remote) |
+| 10/21/2024 | [Voice Software Engineer](https://algojobs.io/jobs/2037925) | [Broadvoice](https://algojobs.io/company/broadvoice/) | N/A | Portugal (Remote) |
 | 10/21/2024 | [Senior Software Engineer - AI/DSP](https://algojobs.io/jobs/2037345) | [Funded.club](https://algojobs.io/company/fundedclub/) | N/A | Rülzheim, Germany |
 | 10/21/2024 | [Software Engineer II](https://algojobs.io/jobs/2038318) | [Affirm](https://algojobs.io/company/affirm/) | N/A | Remote Poland |
 | 10/21/2024 | [Software Engineer II](https://algojobs.io/jobs/2031579) | [Affirm](https://algojobs.io/company/affirm/) | N/A | Remote Spain |
@@ -473,36 +506,3 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 10/20/2024 | [Software Engineer](https://algojobs.io/jobs/2220266) | [Axle Energy](https://algojobs.io/company/axle-energy/) | N/A | London, England, United Kingdom (Hybrid) |
 | 10/18/2024 | [Software Engineer, Frontend - Provisioning](https://algojobs.io/jobs/2028901) | [Squarespace](https://algojobs.io/company/squarespace/) | N/A | Dublin |
 | 10/18/2024 | [Lead Software Engineer](https://algojobs.io/jobs/2026882) | [Appfire Technologies, LLC.](https://algojobs.io/company/appfiretechnologiesllc/) | $10 - $200 | Poland |
-| 10/18/2024 | [Software Engineer, Front-End](https://algojobs.io/jobs/2028387) | [Grammarly](https://algojobs.io/company/grammarly/) | N/A | Berlin; Hybrid |
-| 10/18/2024 | [Software Engineer](https://algojobs.io/jobs/2027420) | [Yellowbrick Data](https://algojobs.io/company/yellowbrickdata/) | N/A | London, UK |
-| 10/18/2024 | [Software Engineer (Go/Python) (Dark Web Monitoring)](https://algojobs.io/jobs/2025890) | [Nord Security](https://algojobs.io/company/nordsec/) | N/A | Vilnius (Hybrid) |
-| 10/18/2024 | [Software Engineer, In-Car Payments](https://algojobs.io/jobs/2031007) | [Parkopedia](https://algojobs.io/company/parkopedia/) | N/A | London, England, United Kingdom (Hybrid) |
-| 10/18/2024 | [Software Engineer - Evinova](https://algojobs.io/jobs/2023176) | [AstraZeneca](https://algojobs.io/company/astrazeneca/) | N/A | Spain - Barcelona |
-| 10/18/2024 | [Software Engineer II](https://algojobs.io/jobs/2031913) | [NCR Voyix](https://algojobs.io/company/ncr/) | N/A | PRAGUE, CZE, Czechia |
-| 10/18/2024 | [Software Engineering Technical Referent (Goloang)](https://algojobs.io/jobs/2025889) | [dLocal](https://algojobs.io/company/dlocal/) | N/A | Madrid (Remote) / Barcelona (Remote) / Spain / ... |
-| 10/18/2024 | [Software Development Engineer](https://algojobs.io/jobs/2032307) | [Clearwater Analytics](https://algojobs.io/company/clearwateranalytics/) | N/A | Paris Office, France |
-| 10/17/2024 | [Software Engineer, ActiveAI Security Portal (TypeScript & JavaScript)](https://algojobs.io/jobs/2017532) | [Darktrace](https://algojobs.io/company/darktracelimited/) | N/A | Cambridge |
-| 10/17/2024 | [Software Engineer (Scala/Java)](https://algojobs.io/jobs/2416491) | [HERE Technologies](https://algojobs.io/company/here/) | N/A | PL |
-| 10/17/2024 | [Software Engineer](https://algojobs.io/jobs/2023157) | [Entrust Corporation](https://algojobs.io/company/entrust/) | N/A | Germany - Field (Onfido) / Portugal - Field / France - Field (Onfido) / ... |
-| 10/17/2024 | [Software Engineer - Identity and Access Management](https://algojobs.io/jobs/2016246) | [Palantir Technologies](https://algojobs.io/company/palantir/) | N/A | London, United Kingdom (Hybrid) |
-| 10/17/2024 | [Software Engineer - Developer Experience (Remote)](https://algojobs.io/jobs/2013732) | [CrowdStrike](https://algojobs.io/company/crowdstrike/) | N/A | Ireland - Remote / United Kingdom - Remote |
-| 10/17/2024 | [Software Engineer II, Fleet Management](https://algojobs.io/jobs/2020059) | [Chainalysis](https://algojobs.io/company/chainalysis-careers/) | N/A | United Kingdom |
-| 10/17/2024 | [Software Engineer - CharlotteAI (Remote)](https://algojobs.io/jobs/2023205) | [CrowdStrike](https://algojobs.io/company/crowdstrike/) | N/A | Italy - Remote / Ireland - Remote / France - Remote / ... |
-| 10/17/2024 | [Software Engineer II](https://algojobs.io/jobs/2023469) | [Blue Yonder](https://algojobs.io/company/jda/) | N/A | Karlsruhe, Germany |
-| 10/17/2024 | [C++ Software Engineer](https://algojobs.io/jobs/2024690) | [NIKI Digital Engineering](https://algojobs.io/company/niki-mepe/) | N/A | Katsikas, Ioannina, Greece (Hybrid) |
-| 10/17/2024 | [Senior Software Engineer - Insights](https://algojobs.io/jobs/2016278) | [Bazaarvoice](https://algojobs.io/company/bazaarvoice/) | N/A | Belfast (Hybrid) |
-| 10/16/2024 | [Software Engineer](https://algojobs.io/jobs/2009906) | [Twilio](https://algojobs.io/company/twilio/) | N/A | Remote - Spain |
-| 10/16/2024 | [Software Development Engineer](https://algojobs.io/jobs/2010523) | [Verifone](https://algojobs.io/company/verifone/) | N/A | Bucharest, Bucharest, Romania |
-| 10/16/2024 | [Software Engineer](https://algojobs.io/jobs/2008766) | [Distran](https://algojobs.io/company/distran/) | N/A | Zurich |
-| 10/16/2024 | [Software Engineer, Launch Program 2025 - Dublin, Ireland](https://algojobs.io/jobs/2003317) | [US: Mastercard Technologies, LLC](https://algojobs.io/company/mastercard/) | N/A | Dublin, Ireland |
-| 10/16/2024 | [Software Engineer C++](https://algojobs.io/jobs/2006998) | [Printec](https://algojobs.io/company/printec/) | N/A | Moschato, Attica, Greece (Hybrid) |
-| 10/16/2024 | [Software Engineer, Launch Program 2025 - Dublin, Ireland](https://algojobs.io/jobs/2004604) | [India: Mastercard Technology Private Limited](https://algojobs.io/company/mastercard/) | N/A | Dublin, Ireland |
-| 10/16/2024 | [DSP Software Engineer](https://algojobs.io/jobs/2007597) | [E-Space](https://algojobs.io/company/espace/) | N/A | Duisburg |
-| 10/15/2024 | [Software Engineer Intern (Summer 2025)](https://algojobs.io/jobs/1999314) | [Dropbox](https://algojobs.io/company/dropbox/) | N/A | Remote - Poland |
-| 10/15/2024 | [Software Engineer II - Back](https://algojobs.io/jobs/2000073) | [isaac](https://algojobs.io/company/isaac/) | N/A | Remoto |
-| 10/15/2024 | [Backend Software Engineer, Golang/Python](https://algojobs.io/jobs/1989964) | [Exness jobs for internal candidates](https://algojobs.io/company/internalhiring/) | N/A | Cyprus |
-| 10/15/2024 | [Software Engineer - Backend GO Developer](https://algojobs.io/jobs/1997630) | [JMA Wireless](https://algojobs.io/company/jmawireless/) | N/A | Milano (Hybrid) |
-| 10/15/2024 | [Software Engineer Intern](https://algojobs.io/jobs/1998174) | [Alice & Bob](https://algojobs.io/company/alice-bob/) | N/A | Paris |
-| 10/15/2024 | [Software Engineer II](https://algojobs.io/jobs/2005323) | [110 Rocket Software Inc](https://algojobs.io/company/rocket/) | N/A | United Kingdom (Remote) |
-| 10/14/2024 | [Software Engineer (Python)](https://algojobs.io/jobs/1990808) | [Garda Capital Partners](https://algojobs.io/company/gardacp/) | N/A | Geneva, Geneva, Switzerland |
-| 10/14/2024 | [Junior Software Engineer, Python (Remote)](https://algojobs.io/jobs/1989691) | [Telnyx](https://algojobs.io/company/telnyx54/) | N/A | Dublin; Amsterdam; Poland; Brazil (Remote) |
